@@ -1,1 +1,1 @@
-# ethnus_html_task
+# Ethnus_intern_task
